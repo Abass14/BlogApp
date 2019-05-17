@@ -1,0 +1,12 @@
+.center-div{
+	display: inline-block;
+	text-align: center;
+}
+
+.js-div{
+	font-size: 14px;
+}
+
+.underline{
+	text-decoration: underline;
+}
